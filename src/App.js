@@ -32,7 +32,6 @@ function App() {
             <RightSidebar/>
         </div>
         // <Auth />
-
     )
 }
 export default App;
